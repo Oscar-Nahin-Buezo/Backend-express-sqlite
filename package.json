@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite/issues"
   },
-  "homepage": "https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite#readme"
+  "homepage": "https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.1"
+  }
 }
