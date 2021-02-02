@@ -1,0 +1,22 @@
+{
+  "name": "backend-express-sqlite",
+  "version": "1.0.0",
+  "description": "backend de tienda online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Nahin Buezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite/issues"
+  },
+  "homepage": "https://github.com/Oscar-Nahin-Buezo/Backend-express-sqlite#readme"
+}
